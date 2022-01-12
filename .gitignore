@@ -215,3 +215,4 @@ ENV/
 
 
 /media/sliderimg/**
+db.sqlite3
